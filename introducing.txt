@@ -1,6 +1,7 @@
 HAHAHAHAH GATAU HARUS NGOMONG APA WKWKWK
 - diem aja
 - ngomong apa aja
-- vue js
-- php
-- laravel
+- struktur data
+- python
+- react js
+
